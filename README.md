@@ -11,7 +11,7 @@ This repository contains data on the Monkeypox (Orthopoxvirus) virus in New York
 
 ***
 
-## How to use this repository
+# How to use this repository
 This repository contains CSV (comma separated values) files of data, and Readme files with important documentation of the data. If you are unfamiliar with Github, you may find these instructions helpful:
 
 **To download data**, scroll up to the green button labelled "Code." Clicking this button will start a download of a ZIP file of the entire contents of this repository.
@@ -63,7 +63,7 @@ Race/ethnicity information is often missing in reportable disease surveillance. 
 
 The Health Department classifies race/ethnicity into the following mutually exclusive categories: Asian/Pacific-Islander, Black/African-American, Hispanic/Latino and White. The Hispanic/Latino category includes people of any race, and all other categories exclude those who identify as Hispanic/Latino.
 
-## Repository Contents
+# Repository Contents
 ***
 
 ### totals/ 
