@@ -1,4 +1,4 @@
-diagnosis_date,count,incomplete,CASE_COUNT_7DAY_AVG,total
+diagnosis_date,count,incomplete,case_count_7day_avg,total
 05/19/2022,1,-,0.0,
 05/20/2022,0,-,0.0,
 05/21/2022,0,-,0.0,
