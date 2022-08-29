@@ -32,7 +32,7 @@ Alternatively, you can download a single file. Click on a file you would like to
 ## Public health reporting 
 ### Reporting lag 
 
-Our demographic data are updated with a two-day lag. This means that the most recent data in today's update are from two days ago. This lag is due to standard delays in reporting a new test or case to the Health Department and are a common limitation of surveillance data. Given the delay, our counts of what has happened in the most recent days are artificially small. 
+Case trend data are updated with a three-day lag, meaning the most recent data are from three days ago. Data lags are due to standard delays in reporting a new test or case to the Health Department and are a common limitation of surveillance data. Given the delay, our counts of what has happened in the most recent days are artificially small.
 
 ### Date of report versus date of diagnosis 
 
