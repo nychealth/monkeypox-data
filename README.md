@@ -32,7 +32,7 @@ Alternatively, you can download a single file. Click on a file you would like to
 ## Public health reporting 
 ### Reporting lag 
 
-Case trend data are updated with a three-day lag, meaning the most recent data are from three days ago. Data lags are due to standard delays in reporting a new test or case to the Health Department and are a common limitation of surveillance data. Given the delay, our counts of what has happened in the most recent days are artificially small.
+Case trend data are updated weekly with a three-day lag, meaning the most recent data are from three days prior. Data lags are due to standard delays in reporting a new test or case to the Health Department and are a common limitation of surveillance data. Given the delay, our counts of what has happened in the most recent days are artificially small.
 
 ### Date of report versus date of diagnosis 
 
@@ -72,6 +72,6 @@ The Health Department classifies race/ethnicity into the following mutually excl
 This folder contains files with cumulative totals since the start of the Monkeypox (Orthopoxvirus) virus in New York City (NYC), which the Health Department defines as the diagnosis of the first confirmed monkeypox case on May 19, 2022. The Health Department recommends against interpreting daily changes to these files as one day’s worth of data, due to the difference between date of diagnosis and date of report. See this folder’s Readme for a detailed description of its contents.
 
 ### trends/ 
-This folder contains files with daily, data shown across time. Note that these trend data are published by date of diagnosis, not by date of report. The Health Department recommends against interpreting daily changes to these files as one day’s worth of data, due to the difference between date of diagnosis and date of report. See this folder’s Readme for a detailed description of its contents.
+This folder contains files with daily data shown across time. Note that these trend data are published by date of diagnosis, not by date of report. The Health Department recommends against interpreting daily changes to these files as one day’s worth of data, due to the difference between date of diagnosis and date of report. See this folder’s Readme for a detailed description of its contents.
 
 
