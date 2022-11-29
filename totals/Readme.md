@@ -1,6 +1,6 @@
 # totals/ 
 
-This folder contains files with cumulative totals since the start of the Monkeypox (Orthopoxvirus) virus in New York City (NYC), which the Health Department defines as the diagnosis of the first confirmed monkeypox case on May 19, 2022. The Health Department recommends against interpreting daily changes to these files as one day’s worth of data, due to the difference between date of diagnosis and date of report.
+This folder contains files with cumulative totals since the start of the mpox virus in New York City (NYC), which the Health Department defines as the diagnosis of the first confirmed monkeypox case on May 19, 2022. The Health Department recommends against interpreting daily changes to these files as one day’s worth of data, due to the difference between date of diagnosis and date of report.
 
 
 ## Files 
