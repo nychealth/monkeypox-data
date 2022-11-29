@@ -40,7 +40,7 @@ Due to lags common with surveillance data, we receive reports of diagnoses that 
 
 ### Reportable disease surveillance 
 
-The Health Department receives electronic laboratory reports for a number of infectious diseases, as required by law in the [NYC Health Code](https://www1.nyc.gov/site/doh/providers/reporting-and-services/notifiable-diseases-and-conditions-reporting-central.page). When a specimen is collected from a patient for monkeypox virus (orthopoxvirus) laboratory testing, the lab must report all results, — whether positive, negative or inconclusive — to the Health Department. The lab must also report limited demographic information on the person being tested, such as name, address and date of birth. 
+The Health Department receives electronic laboratory reports for a number of infectious diseases, as required by law in the [NYC Health Code](https://www1.nyc.gov/site/doh/providers/reporting-and-services/notifiable-diseases-and-conditions-reporting-central.page). When a specimen is collected from a patient for mpox laboratory testing, the lab must report all results, — whether positive, negative or inconclusive — to the Health Department. The lab must also report limited demographic information on the person being tested, such as name, address and date of birth. 
 
 ### Case definitions
 The Health Department uses national standard case definitions developed by the Centers for Disease Control and Prevention [CDC] (https://www.cdc.gov/poxvirus/monkeypox/clinicians/case-definition.html).
@@ -69,7 +69,7 @@ The Health Department classifies race/ethnicity into the following mutually excl
 ***
 
 ### totals/ 
-This folder contains files with cumulative totals since the start of the Monkeypox (Orthopoxvirus) virus in New York City (NYC), which the Health Department defines as the diagnosis of the first confirmed monkeypox case on May 19, 2022. The Health Department recommends against interpreting daily changes to these files as one day’s worth of data, due to the difference between date of diagnosis and date of report. See this folder’s Readme for a detailed description of its contents.
+This folder contains files with cumulative totals since the start of the mpox virus in New York City (NYC), which the Health Department defines as the diagnosis of the first confirmed mpox case on May 19, 2022. The Health Department recommends against interpreting daily changes to these files as one day’s worth of data, due to the difference between date of diagnosis and date of report. See this folder’s Readme for a detailed description of its contents.
 
 ### trends/ 
 This folder contains files with daily data shown across time. Note that these trend data are published by date of diagnosis, not by date of report. The Health Department recommends against interpreting daily changes to these files as one day’s worth of data, due to the difference between date of diagnosis and date of report. See this folder’s Readme for a detailed description of its contents.
