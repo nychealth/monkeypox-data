@@ -7,7 +7,7 @@ This folder contains files with daily data shown across time. Note that these tr
 ### cases-by-day.csv   
 This file contains citywide and borough-specific daily counts of probable and confirmed cases. Cases are aggregated by the date of diagnosis. To address variation in the number of cases diagnosed per day, we have included a 7-day average (mean). This is calculated as the average of number of cases on that day and the previous 6 days.
 
-This file includes data since May 19, 2022 based on the date that the Health Department classifies as the start of the monkeypox outbreak in NYC (i.e., date of the first laboratory-confirmed case). 
+This file includes data since May 19, 2022 based on the date that the Health Department classifies as the start of the mpox outbreak in NYC (i.e., date of the first laboratory-confirmed case). 
 
 Indicators include: 
 
