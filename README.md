@@ -1,6 +1,6 @@
 # NYC mpox (Orthopoxvirus) Data
-This repository contains data on the Monkeypox (Orthopoxvirus) virus in New York City (NYC), from the NYC Department of Health and Mental Hygiene.
-You can view a visualization of these data on the NYC Health Department's [Monkeypox Surveillance Data webpage](https://www1.nyc.gov/site/doh/data/health-tools/monkeypox.page).
+This repository contains data on the mpox (Orthopoxvirus) virus in New York City (NYC), from the NYC Department of Health and Mental Hygiene.
+You can view a visualization of these data on the NYC Health Department's [mpox Surveillance Data webpage](https://www1.nyc.gov/site/doh/data/health-tools/monkeypox.page).
 
 
 
