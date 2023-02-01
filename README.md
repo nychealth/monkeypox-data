@@ -1,6 +1,6 @@
 # NYC mpox (Orthopoxvirus) Data
 
-__Note:__  With the end of the federal public health emergency on January 31, 2023, NYC DOHMH will no longer update this GitHub repository. Please visit the NYC DOHMH website for a summary of the mpox outbreak in NYC from May to December: https://www.nyc.gov/site/doh/health/health-topics/monkeypox.page
+__Note:__  With the end of the federal public health emergency on January 31, 2023, NYC DOHMH will no longer update this GitHub repository. Please visit the NYC DOHMH website for a summary of the mpox outbreak in NYC from May 2022 to December 2022: https://www.nyc.gov/site/doh/health/health-topics/monkeypox.page
 
 
 ***
