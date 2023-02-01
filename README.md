@@ -1,10 +1,11 @@
 # NYC mpox (Orthopoxvirus) Data
-This repository contains data on the mpox (Orthopoxvirus) virus in New York City (NYC), from the NYC Department of Health and Mental Hygiene.
-You can view a visualization of these data on the NYC Health Department's [mpox Surveillance Data webpage](https://www1.nyc.gov/site/doh/data/health-tools/monkeypox.page).
 
+__Note:__  With the end of the federal public health emergency on January 31, 2023, NYC DOHMH will no longer update this GitHub repository. Please visit the NYC DOHMH website for a summary of the mpox outbreak in NYC from May to December: https://www.nyc.gov/site/doh/health/health-topics/monkeypox.page
 
 
 ***
+
+This repository contains an archive of data on the mpox (Orthopoxvirus) virus in New York City (NYC), from the NYC Department of Health and Mental Hygiene.
 
 ## This Readme includes:
 - [How to use this repository](#How-to-use-this-repository)
